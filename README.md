@@ -1,0 +1,2 @@
+# SpringCloudConfig
+SpringCloud的分布式配置中心的存放仓库
